@@ -10,7 +10,7 @@
 
 #### Lab Report
 [https://github.com/andyyang2003/BMS/blob/main/Final%20Project%20EECS%20113.pdf
-](url)
+](https://github.com/andyyang2003/BMS/blob/main/Final%20Project%20EECS%20113.pdf)
 
 Abbient light control: Your BMS should be able to detect human presence in the room and sub-
 sequently turn on the lights (represented by GREEN LED). Use the PIR sensor to implement this
